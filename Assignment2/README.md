@@ -1,5 +1,7 @@
-This are the files for the second Assignment of the course.
-Authors: Davida García Valcarce and Jimena Martín Reina
+These are the files for the second Assignment of the course.
+
+Authors: David García Valcarce and Jimena Martín Reina.
+
 There is one principal script and three auxiliar scripts required for the task.
 
 Write $ruby main.rb in the terminal for running the code.
