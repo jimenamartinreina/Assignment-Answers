@@ -2,6 +2,8 @@ require 'csv'
 require 'date'
 require 'matrix'
 
+#It was easier resolving  this having 4 object instead of three, the fourth one would be database
+
 # Class for Gene
 class Gene
   attr_accessor :gene_id, :gene_name, :linked_genes
@@ -39,7 +41,7 @@ class SeedStock
   
   def plant_seeds
     if @grams_remaining > 7
-      @grams_remaining -= 7
+      @grams_remaining -= 7 #es mejor que hubiera una variable grams que son los gramos que quitas y q ue vayan en  la función
     else
       puts "WARNING: we have run out of Seed Stock for #{@seed_stock}"
       @grams_remaining = 0

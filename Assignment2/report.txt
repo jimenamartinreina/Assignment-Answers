@@ -1,0 +1,1162 @@
+******** Bioinformatics Programming Challenges
+******** Assignment 2 - Intensive integration using web APIs
+******** David García Valcarce
+******** Jimena Martín Reina
+
+A total of 20 networks were found.
+
+------------------------------------------------
+**NETWORK 1
+---
+*GENES:
+At2g13360
+At2g01950
+At2g47930
+At5g01530
+---
+*KEGG PATHWAYS:
+ath00250: Alanine, aspartate and glutamate metabolism
+ath00260: Glycine, serine and threonine metabolism
+ath00630: Glyoxylate and dicarboxylate metabolism
+ath01100: Metabolic pathways
+ath01110: Biosynthesis of secondary metabolites
+ath01200: Carbon metabolism
+ath01210: 2-Oxocarboxylic acid metabolism
+ath04146: Peroxisome
+ath00196: Photosynthesis - antenna proteins
+ath01100: Metabolic pathways
+---
+*GO PROCESSES:
+GO:0009853: photorespiration
+GO:0009734: auxin-activated signaling pathway
+GO:0009742: brassinosteroid mediated signaling pathway
+GO:0010305: leaf vascular tissue pattern formation
+GO:0010233: phloem transport
+GO:0016310: phosphorylation
+GO:0010051: xylem and phloem pattern formation
+GO:0071704: organic substance metabolic process
+GO:0009765: photosynthesis, light harvesting
+------------------------------------------------
+**NETWORK 2
+---
+*GENES:
+At4g09650
+At4g37260
+At4g32570
+At1g03130
+At4g02770
+At1g37130
+At1g31880
+At5g18930
+At2g37630
+At5g60120
+At1g76080
+At1g14280
+At5g67300
+At5g19000
+At1g35560
+---
+*KEGG PATHWAYS:
+ath00190: Oxidative phosphorylation
+ath00195: Photosynthesis
+ath01100: Metabolic pathways
+ath00195: Photosynthesis
+ath01100: Metabolic pathways
+ath00195: Photosynthesis
+ath01100: Metabolic pathways
+ath00910: Nitrogen metabolism
+ath01100: Metabolic pathways
+ath00270: Cysteine and methionine metabolism
+ath00330: Arginine and proline metabolism
+ath01100: Metabolic pathways
+---
+*GO PROCESSES:
+GO:0015979: photosynthesis
+GO:0009773: photosynthetic electron transport in photosystem I
+GO:0009772: photosynthetic electron transport in photosystem II
+GO:0009409: response to cold
+GO:0035556: intracellular signal transduction
+GO:0019760: glucosinolate metabolic process
+GO:1901001: negative regulation of response to salt stress
+GO:0010929: positive regulation of auxin mediated signaling pathway
+GO:0006355: regulation of DNA-templated transcription
+GO:0006122: mitochondrial electron transport, ubiquinol to cytochrome c
+GO:0031347: regulation of defense response
+GO:2000022: regulation of jasmonic acid mediated signaling pathway
+GO:0009611: response to wounding
+GO:0015979: photosynthesis
+GO:0140547: acquisition of seed longevity
+GO:0015979: photosynthesis
+GO:0042128: nitrate assimilation
+GO:0006809: nitric oxide biosynthetic process
+GO:0009635: response to herbicide
+GO:0009416: response to light stimulus
+GO:0009610: response to symbiotic fungus
+GO:0010315: auxin export across the plasma membrane
+GO:0009734: auxin-activated signaling pathway
+GO:0030154: cell differentiation
+GO:0009736: cytokinin-activated signaling pathway
+GO:0048527: lateral root development
+GO:0010078: maintenance of root meristem identity
+GO:0010088: phloem development
+GO:2000280: regulation of root development
+GO:0009737: response to abscisic acid
+GO:0048364: root development
+GO:0048756: sieve cell differentiation
+GO:0099402: plant organ development
+GO:0008295: spermidine biosynthetic process
+GO:0006597: spermine biosynthetic process
+GO:0016567: protein ubiquitination
+GO:0008356: asymmetric cell division
+GO:0042742: defense response to bacterium
+GO:0050832: defense response to fungus
+GO:0009908: flower development
+GO:0010338: leaf formation
+GO:0009965: leaf morphogenesis
+GO:0045892: negative regulation of DNA-templated transcription
+GO:0009944: polarity specification of adaxial/abaxial axis
+GO:0009946: proximal/distal axis specification
+GO:0045088: regulation of innate immune response
+GO:0009615: response to virus
+GO:0009873: ethylene-activated signaling pathway
+GO:0006351: DNA-templated transcription
+GO:0010629: negative regulation of gene expression
+GO:0045824: negative regulation of innate immune response
+GO:0045454: cell redox homeostasis
+GO:0042742: defense response to bacterium
+GO:0010286: heat acclimation
+GO:0006979: response to oxidative stress
+GO:0009414: response to water deprivation
+GO:0048366: leaf development
+GO:0009638: phototropism
+GO:0009585: red, far-red light phototransduction
+GO:0009738: abscisic acid-activated signaling pathway
+GO:0042742: defense response to bacterium
+GO:0050832: defense response to fungus
+GO:0010929: positive regulation of auxin mediated signaling pathway
+GO:1900150: regulation of defense response to fungus
+GO:0006355: regulation of DNA-templated transcription
+GO:2000022: regulation of jasmonic acid mediated signaling pathway
+GO:2000031: regulation of salicylic acid mediated signaling pathway
+GO:0009737: response to abscisic acid
+GO:0009408: response to heat
+GO:0009753: response to jasmonic acid
+GO:0009751: response to salicylic acid
+GO:0009651: response to salt stress
+GO:0009414: response to water deprivation
+GO:0071472: cellular response to salt stress
+GO:0042631: cellular response to water deprivation
+GO:0016567: protein ubiquitination
+GO:0006970: response to osmotic stress
+GO:0046496: nicotinamide nucleotide metabolic process
+GO:0006355: regulation of DNA-templated transcription
+GO:0048510: regulation of timing of transition from vegetative to reproductive phase
+GO:0006351: DNA-templated transcription
+------------------------------------------------
+**NETWORK 3
+---
+*GENES:
+At5g55620
+At5g54780
+---
+*KEGG PATHWAYS:
+---
+*GO PROCESSES:
+GO:0006355: regulation of DNA-templated transcription
+------------------------------------------------
+**NETWORK 4
+---
+*GENES:
+At4g37930
+At5g04140
+---
+*KEGG PATHWAYS:
+ath00260: Glycine, serine and threonine metabolism
+ath00460: Cyanoamino acid metabolism
+ath00630: Glyoxylate and dicarboxylate metabolism
+ath00670: One carbon pool by folate
+ath01100: Metabolic pathways
+ath01110: Biosynthesis of secondary metabolites
+ath01200: Carbon metabolism
+ath01230: Biosynthesis of amino acids
+ath01240: Biosynthesis of cofactors
+ath00630: Glyoxylate and dicarboxylate metabolism
+ath00910: Nitrogen metabolism
+---
+*GO PROCESSES:
+GO:0007623: circadian rhythm
+GO:0019264: glycine biosynthetic process from serine
+GO:0006544: glycine metabolic process
+GO:0006563: L-serine metabolic process
+GO:0009853: photorespiration
+GO:0009626: plant-type hypersensitive response
+GO:0009409: response to cold
+GO:0009416: response to light stimulus
+GO:0035999: tetrahydrofolate interconversion
+GO:0006541: glutamine metabolic process
+GO:0097054: L-glutamate biosynthetic process
+GO:0009853: photorespiration
+GO:0080114: positive regulation of glycine hydroxymethyltransferase activity
+GO:0009416: response to light stimulus
+GO:0009744: response to sucrose
+GO:0006537: glutamate biosynthetic process
+------------------------------------------------
+**NETWORK 5
+---
+*GENES:
+At4g17460
+At4g37790
+At3g07220
+At1g30490
+At5g12980
+At2g45680
+At1g70920
+At2g44910
+At3g60390
+At2g22800
+At3g15030
+At4g16780
+At5g47370
+At1g62360
+At5g15850
+At5g17300
+At3g02150
+At3g01140
+At1g26780
+At1g42050
+At5g65050
+At5g23000
+At4g10240
+At5g54470
+At4g38960
+At4g12210
+At1g08970
+At2g31380
+At5g27910
+At2g46340
+At3g15354
+At1g53090
+At2g32950
+At4g11110
+At5g15210
+At1g76510
+At1g60250
+At3g18550
+At5g24520
+At5g08330
+At2g46350
+At1g71030
+At4g32980
+At1g56650
+At4g09820
+---
+*KEGG PATHWAYS:
+ath03018: RNA degradation
+ath04712: Circadian rhythm - plant
+ath04712: Circadian rhythm - plant
+ath04712: Circadian rhythm - plant
+ath04120: Ubiquitin mediated proteolysis
+ath04712: Circadian rhythm - plant
+ath04712: Circadian rhythm - plant
+ath03083: Polycomb repressive complex
+ath04712: Circadian rhythm - plant
+ath04712: Circadian rhythm - plant
+---
+*GO PROCESSES:
+GO:0003006: developmental process involved in reproduction
+GO:0010582: floral meristem determinacy
+GO:0080127: fruit septum development
+GO:0048467: gynoecium development
+GO:0009738: abscisic acid-activated signaling pathway
+GO:0009737: response to abscisic acid
+GO:0009735: response to cytokinin
+GO:0009414: response to water deprivation
+GO:0045739: positive regulation of DNA repair
+GO:0006338: chromatin remodeling
+GO:0048638: regulation of developmental growth
+GO:0060962: regulation of ribosomal protein gene transcription by RNA polymerase II
+GO:0080086: stamen filament development
+GO:0035998: 7,8-dihydroneopterin 3'-triphosphate biosynthetic process
+GO:0046654: tetrahydrofolate biosynthetic process
+GO:0009943: adaxial/abaxial axis specification
+GO:0030154: cell differentiation
+GO:0009855: determination of bilateral symmetry
+GO:0009880: embryonic pattern specification
+GO:0080060: integument development
+GO:0010014: meristem initiation
+GO:0009944: polarity specification of adaxial/abaxial axis
+GO:0010072: primary shoot apical meristem specification
+GO:0006402: mRNA catabolic process
+GO:1900056: negative regulation of leaf senescence
+GO:0008361: regulation of cell size
+GO:0006355: regulation of DNA-templated transcription
+GO:0048364: root development
+GO:0006351: DNA-templated transcription
+GO:0015979: photosynthesis
+GO:0006355: regulation of DNA-templated transcription
+GO:0010218: response to far red light
+GO:0009725: response to hormone
+GO:0009641: shade avoidance
+GO:0015031: protein transport
+GO:0016192: vesicle-mediated transport
+GO:0048825: cotyledon development
+GO:0048826: cotyledon morphogenesis
+GO:0009793: embryo development ending in seed dormancy
+GO:0048366: leaf development
+GO:0010150: leaf senescence
+GO:0006355: regulation of DNA-templated transcription
+GO:0051707: response to other organism
+GO:0006351: DNA-templated transcription
+GO:0010311: lateral root formation
+GO:0045892: negative regulation of DNA-templated transcription
+GO:0010017: red or far-red light signaling pathway
+GO:0009585: red, far-red light phototransduction
+GO:0009733: response to auxin
+GO:0009735: response to cytokinin
+GO:0010218: response to far red light
+GO:0048364: root development
+GO:0080191: secondary thickening
+GO:0009641: shade avoidance
+GO:0010016: shoot system morphogenesis
+GO:0009826: unidimensional cell growth
+GO:0009734: auxin-activated signaling pathway
+GO:0006355: regulation of DNA-templated transcription
+GO:0009734: auxin-activated signaling pathway
+GO:0045892: negative regulation of DNA-templated transcription
+GO:0009733: response to auxin
+GO:0009641: shade avoidance
+GO:0009826: unidimensional cell growth
+GO:0048440: carpel development
+GO:0009691: cytokinin biosynthetic process
+GO:0010582: floral meristem determinacy
+GO:0010497: plasmodesmata-mediated intercellular transport
+GO:0009934: regulation of meristem structural organization
+GO:0019827: stem cell population maintenance
+GO:0009909: regulation of flower development
+GO:0000398: mRNA splicing, via spliceosome
+GO:0009734: auxin-activated signaling pathway
+GO:0007623: circadian rhythm
+GO:0010600: regulation of auxin biosynthetic process
+GO:0006355: regulation of DNA-templated transcription
+GO:0016567: protein ubiquitination
+GO:0048366: leaf development
+GO:0010150: leaf senescence
+GO:0031347: regulation of defense response
+GO:0006355: regulation of DNA-templated transcription
+GO:0006021: inositol biosynthetic process
+GO:0046854: phosphatidylinositol phosphate biosynthetic process
+GO:0006351: DNA-templated transcription
+GO:0000902: cell morphogenesis
+GO:0035017: cuticle pattern formation
+GO:1901957: regulation of cutin biosynthetic process
+GO:0010091: trichome branching
+GO:0010199: organ boundary specification between lateral organs and the meristem
+GO:0006355: regulation of DNA-templated transcription
+GO:0030154: cell differentiation
+GO:0009908: flower development
+GO:0009910: negative regulation of flower development
+GO:0010221: negative regulation of vernalization response
+GO:0045944: positive regulation of transcription by RNA polymerase II
+GO:0006355: regulation of DNA-templated transcription
+GO:0010048: vernalization response
+GO:0006351: DNA-templated transcription
+GO:0090506: axillary shoot meristem initiation
+GO:0006355: regulation of DNA-templated transcription
+GO:0071456: cellular response to hypoxia
+GO:0009555: pollen development
+GO:0006355: regulation of DNA-templated transcription
+GO:0009409: response to cold
+GO:0006629: lipid metabolic process
+GO:0010100: negative regulation of photomorphogenesis
+GO:0009640: photomorphogenesis
+GO:0006355: regulation of DNA-templated transcription
+GO:0007623: circadian rhythm
+GO:0010228: vegetative to reproductive phase transition of meristem
+GO:0032259: methylation
+GO:0009738: abscisic acid-activated signaling pathway
+GO:0009740: gibberellic acid mediated signaling pathway
+GO:2000306: positive regulation of photomorphogenesis
+GO:0010029: regulation of seed germination
+GO:0010100: negative regulation of photomorphogenesis
+GO:0006355: regulation of DNA-templated transcription
+GO:0009658: chloroplast organization
+GO:0010100: negative regulation of photomorphogenesis
+GO:0009640: photomorphogenesis
+GO:0010017: red or far-red light signaling pathway
+GO:0009585: red, far-red light phototransduction
+GO:2000028: regulation of photoperiodism, flowering
+GO:0009637: response to blue light
+GO:0010218: response to far red light
+GO:0010114: response to red light
+GO:0048575: short-day photoperiodism, flowering
+GO:0009640: photomorphogenesis
+GO:0009585: red, far-red light phototransduction
+GO:0009640: photomorphogenesis
+GO:0009585: red, far-red light phototransduction
+GO:0009637: response to blue light
+GO:0046283: anthocyanin-containing compound metabolic process
+GO:0006281: DNA repair
+GO:0009649: entrainment of circadian clock
+GO:0009640: photomorphogenesis
+GO:0048573: photoperiodism, flowering
+GO:0009963: positive regulation of flavonoid biosynthetic process
+GO:0016567: protein ubiquitination
+GO:0009585: red, far-red light phototransduction
+GO:0010119: regulation of stomatal movement
+GO:0010224: response to UV-B
+GO:0009641: shade avoidance
+GO:0009647: skotomorphogenesis
+GO:0009640: photomorphogenesis
+GO:0009585: red, far-red light phototransduction
+GO:0019760: glucosinolate metabolic process
+GO:0006357: regulation of transcription by RNA polymerase II
+GO:0006355: regulation of DNA-templated transcription
+GO:0006355: regulation of DNA-templated transcription
+GO:0006355: regulation of DNA-templated transcription
+GO:2000032: regulation of secondary shoot formation
+GO:0010223: secondary shoot formation
+GO:0006351: DNA-templated transcription
+GO:0045165: cell fate commitment
+GO:0009957: epidermal cell fate specification
+GO:0032880: regulation of protein localization
+GO:0009733: response to auxin
+GO:0009723: response to ethylene
+GO:0010026: trichome differentiation
+GO:0098869: cellular oxidant detoxification
+GO:0043433: negative regulation of DNA-binding transcription factor activity
+GO:0042753: positive regulation of circadian rhythm
+GO:0042752: regulation of circadian rhythm
+GO:0006355: regulation of DNA-templated transcription
+GO:0048511: rhythmic process
+GO:0007031: peroxisome organization
+GO:0006351: DNA-templated transcription
+GO:0009658: chloroplast organization
+GO:0010100: negative regulation of photomorphogenesis
+GO:0009640: photomorphogenesis
+GO:0010017: red or far-red light signaling pathway
+GO:0009585: red, far-red light phototransduction
+GO:2000028: regulation of photoperiodism, flowering
+GO:0009637: response to blue light
+GO:0010218: response to far red light
+GO:0010114: response to red light
+GO:0048575: short-day photoperiodism, flowering
+GO:0009718: anthocyanin-containing compound biosynthetic process
+GO:0010023: proanthocyanidin biosynthetic process
+GO:0010227: floral organ abscission
+GO:0010073: meristem maintenance
+GO:0008285: negative regulation of cell population proliferation
+GO:0009640: photomorphogenesis
+GO:0010371: regulation of gibberellin biosynthetic process
+GO:0090470: shoot organ boundary specification
+GO:0010228: vegetative to reproductive phase transition of meristem
+GO:0006355: regulation of DNA-templated transcription
+GO:0016310: phosphorylation
+GO:0009718: anthocyanin-containing compound biosynthetic process
+GO:0009867: jasmonic acid mediated signaling pathway
+GO:0031542: positive regulation of anthocyanin biosynthetic process
+GO:0031540: regulation of anthocyanin biosynthetic process
+GO:0019430: removal of superoxide radicals
+GO:0009733: response to auxin
+GO:0009723: response to ethylene
+GO:0002239: response to oomycetes
+GO:0009745: sucrose mediated signaling
+GO:0009813: flavonoid biosynthetic process
+GO:0009867: jasmonic acid mediated signaling pathway
+GO:0031542: positive regulation of anthocyanin biosynthetic process
+GO:0009962: regulation of flavonoid biosynthetic process
+GO:2000029: regulation of proanthocyanidin biosynthetic process
+GO:0010214: seed coat development
+GO:0048316: seed development
+GO:0010026: trichome differentiation
+GO:0006869: lipid transport
+------------------------------------------------
+**NETWORK 6
+---
+*GENES:
+At3g54130
+At5g05690
+---
+*KEGG PATHWAYS:
+ath04141: Protein processing in endoplasmic reticulum
+ath00905: Brassinosteroid biosynthesis
+ath01100: Metabolic pathways
+ath01110: Biosynthesis of secondary metabolites
+---
+*GO PROCESSES:
+GO:0006508: proteolysis
+GO:0016132: brassinosteroid biosynthetic process
+GO:0009808: lignin metabolic process
+GO:0009834: plant-type secondary cell wall biogenesis
+GO:0009826: unidimensional cell growth
+GO:0048657: anther wall tapetum cell differentiation
+GO:0010268: brassinosteroid homeostasis
+GO:0010584: pollen exine formation
+GO:0009911: positive regulation of flower development
+GO:0010224: response to UV-B
+GO:0016310: phosphorylation
+GO:0050896: response to stimulus
+GO:0048657: anther wall tapetum cell differentiation
+GO:0016132: brassinosteroid biosynthetic process
+GO:0010268: brassinosteroid homeostasis
+GO:0010584: pollen exine formation
+GO:0009911: positive regulation of flower development
+GO:0010224: response to UV-B
+------------------------------------------------
+**NETWORK 7
+---
+*GENES:
+At4g22890
+At1g60950
+---
+*KEGG PATHWAYS:
+ath00195: Photosynthesis
+ath01100: Metabolic pathways
+---
+*GO PROCESSES:
+GO:0009773: photosynthetic electron transport in photosystem I
+GO:0009643: photosynthetic acclimation
+GO:0009767: photosynthetic electron transport chain
+GO:0009853: photorespiration
+GO:0019253: reductive pentose-phosphate cycle
+------------------------------------------------
+**NETWORK 8
+---
+*GENES:
+At5g17790
+At4g19170
+---
+*KEGG PATHWAYS:
+ath00906: Carotenoid biosynthesis
+ath01100: Metabolic pathways
+ath01110: Biosynthesis of secondary metabolites
+---
+*GO PROCESSES:
+GO:1900871: chloroplast mRNA modification
+GO:0009658: chloroplast organization
+GO:0006397: mRNA processing
+GO:0009733: response to auxin
+GO:1901811: beta-carotene catabolic process
+------------------------------------------------
+**NETWORK 9
+---
+*GENES:
+At5g42980
+At3g01500
+At5g14740
+At2g39730
+At3g55800
+At3g62410
+At5g35630
+At3g50820
+At1g19580
+At5g66510
+At5g63510
+At3g48680
+At3g06310
+At2g33220
+At2g02510
+At1g49140
+At3g18410
+At2g47690
+At1g79010
+At3g08610
+At5g47890
+At5g52840
+At3g12260
+At2g20360
+At3g03100
+At1g76200
+At2g02050
+At5g47570
+At5g37510
+At5g67590
+At5g11770
+At5g08530
+At4g02580
+At2g07785
+At4g16450
+At4g20150
+At2g42210
+At4g28510
+At1g03860
+At5g40770
+At3g27280
+At2g20530
+At5g44140
+At1g68680
+At4g00585
+At2g31490
+At2g42310
+At2g27730
+At3g26650
+At1g32060
+---
+*KEGG PATHWAYS:
+ath00910: Nitrogen metabolism
+ath01100: Metabolic pathways
+ath00910: Nitrogen metabolism
+ath01100: Metabolic pathways
+ath00710: Carbon fixation in photosynthetic organisms
+ath01100: Metabolic pathways
+ath01200: Carbon metabolism
+ath00220: Arginine biosynthesis
+ath00250: Alanine, aspartate and glutamate metabolism
+ath00630: Glyoxylate and dicarboxylate metabolism
+ath00910: Nitrogen metabolism
+ath01100: Metabolic pathways
+ath01230: Biosynthesis of amino acids
+ath00195: Photosynthesis
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00190: Oxidative phosphorylation
+ath01100: Metabolic pathways
+ath00710: Carbon fixation in photosynthetic organisms
+ath01100: Metabolic pathways
+ath01200: Carbon metabolism
+ath00710: Carbon fixation in photosynthetic organisms
+ath01100: Metabolic pathways
+ath01200: Carbon metabolism
+---
+*GO PROCESSES:
+GO:0050832: defense response to fungus
+GO:0010286: heat acclimation
+GO:0051259: protein complex oligomerization
+GO:0006457: protein folding
+GO:0009408: response to heat
+GO:0010188: response to microbial phytotoxin
+GO:0032787: monocarboxylic acid metabolic process
+GO:0015976: carbon utilization
+GO:0050832: defense response to fungus
+GO:2000122: negative regulation of stomatal complex development
+GO:0015979: photosynthesis
+GO:0010119: regulation of stomatal movement
+GO:0010037: response to carbon dioxide
+GO:0009409: response to cold
+GO:0015976: carbon utilization
+GO:0006865: amino acid transport
+GO:0010150: leaf senescence
+GO:0009409: response to cold
+GO:0009753: response to jasmonic acid
+GO:0009416: response to light stimulus
+GO:0016051: carbohydrate biosynthetic process
+GO:0019253: reductive pentose-phosphate cycle
+GO:0019252: starch biosynthetic process
+GO:0005986: sucrose biosynthetic process
+GO:0071454: cellular response to anoxia
+GO:0070417: cellular response to cold
+GO:0034605: cellular response to heat
+GO:0080153: negative regulation of reductive pentose-phosphate cycle
+GO:0018316: peptide cross-linking via L-cystine
+GO:0065003: protein-containing complex assembly
+GO:0019253: reductive pentose-phosphate cycle
+GO:0009416: response to light stimulus
+GO:0009744: response to sucrose
+GO:0019676: ammonia assimilation cycle
+GO:0006542: glutamine biosynthetic process
+GO:0046686: response to cadmium ion
+GO:0006807: nitrogen compound metabolic process
+GO:0043436: oxoacid metabolic process
+GO:0010205: photoinhibition
+GO:0019684: photosynthesis, light reaction
+GO:0010207: photosystem II assembly
+GO:0042549: photosystem II stabilization
+GO:0035304: regulation of protein dephosphorylation
+GO:0009853: photorespiration
+GO:0070207: protein homotrimerization
+GO:0009853: photorespiration
+GO:0070207: protein homotrimerization
+GO:0009853: photorespiration
+GO:0009737: response to abscisic acid
+GO:0009651: response to salt stress
+GO:0010228: vegetative to reproductive phase transition of meristem
+GO:0006265: DNA topological change
+GO:0009853: photorespiration
+GO:0009737: response to abscisic acid
+GO:0009651: response to salt stress
+GO:0010228: vegetative to reproductive phase transition of meristem
+GO:0019287: isopentenyl diphosphate biosynthetic process, mevalonate pathway
+GO:0016126: sterol biosynthetic process
+GO:0006120: mitochondrial electron transport, NADH to ubiquinone
+GO:0009853: photorespiration
+GO:0006378: mRNA polyadenylation
+GO:0006369: termination of RNA polymerase II transcription
+GO:0022900: electron transport chain
+GO:0009853: photorespiration
+GO:0009853: photorespiration
+GO:0009853: photorespiration
+GO:0009853: photorespiration
+GO:0022904: respiratory electron transport chain
+GO:0006508: proteolysis
+GO:0032981: mitochondrial respiratory chain complex I assembly
+GO:0009853: photorespiration
+GO:0045490: pectin catabolic process
+GO:0042773: ATP synthesis coupled electron transport
+GO:0009853: photorespiration
+GO:0009631: cold acclimation
+GO:0006970: response to osmotic stress
+GO:0016567: protein ubiquitination
+GO:0042542: response to hydrogen peroxide
+GO:0009751: response to salicylic acid
+GO:0006807: nitrogen compound metabolic process
+GO:0007030: Golgi organization
+GO:0006869: lipid transport
+GO:0015031: protein transport
+GO:0042147: retrograde transport, endosome to Golgi
+GO:0009060: aerobic respiration
+GO:0009853: photorespiration
+GO:0006811: monoatomic ion transport
+GO:0045039: protein insertion into mitochondrial inner membrane
+GO:0034196: acylglycerol transport
+GO:1990052: ER to chloroplast lipid transport
+GO:0051301: cell division
+GO:0042742: defense response to bacterium
+GO:0048527: lateral root development
+GO:0007005: mitochondrion organization
+GO:0051782: negative regulation of cell division
+GO:0009733: response to auxin
+GO:0009723: response to ethylene
+GO:0071731: response to nitric oxide
+GO:0009651: response to salt stress
+GO:0009697: salicylic acid biosynthetic process
+GO:0009853: photorespiration
+GO:0009853: photorespiration
+GO:0009853: photorespiration
+GO:0006006: glucose metabolic process
+GO:0051289: protein homotetramerization
+GO:0019253: reductive pentose-phosphate cycle
+GO:0009409: response to cold
+GO:0009416: response to light stimulus
+GO:0009744: response to sucrose
+GO:0016310: phosphorylation
+GO:0019253: reductive pentose-phosphate cycle
+GO:0009409: response to cold
+------------------------------------------------
+**NETWORK 10
+---
+*GENES:
+At1g42970
+At2g42580
+---
+*KEGG PATHWAYS:
+ath00710: Carbon fixation in photosynthetic organisms
+ath01100: Metabolic pathways
+ath01200: Carbon metabolism
+---
+*GO PROCESSES:
+GO:0006006: glucose metabolic process
+GO:0019253: reductive pentose-phosphate cycle
+GO:0009409: response to cold
+GO:0009416: response to light stimulus
+GO:0009744: response to sucrose
+GO:0008652: amino acid biosynthetic process
+GO:0009073: aromatic amino acid family biosynthetic process
+GO:0009423: chorismate biosynthetic process
+GO:0009734: auxin-activated signaling pathway
+GO:0009742: brassinosteroid mediated signaling pathway
+GO:0010305: leaf vascular tissue pattern formation
+GO:0009733: response to auxin
+GO:0006970: response to osmotic stress
+GO:0015031: protein transport
+------------------------------------------------
+**NETWORK 11
+---
+*GENES:
+At4g23810
+At1g54040
+---
+*KEGG PATHWAYS:
+---
+*GO PROCESSES:
+GO:0042742: defense response to bacterium
+GO:0010150: leaf senescence
+GO:0045893: positive regulation of DNA-templated transcription
+GO:0031347: regulation of defense response
+GO:2000022: regulation of jasmonic acid mediated signaling pathway
+GO:0009617: response to bacterium
+GO:0042542: response to hydrogen peroxide
+GO:0010193: response to ozone
+GO:0009751: response to salicylic acid
+GO:0006367: transcription initiation at RNA polymerase II promoter
+GO:0006351: DNA-templated transcription
+GO:0042742: defense response to bacterium
+GO:0019762: glucosinolate catabolic process
+GO:0010150: leaf senescence
+GO:0080028: nitrile biosynthetic process
+GO:0009753: response to jasmonic acid
+------------------------------------------------
+**NETWORK 12
+---
+*GENES:
+At3g21870
+At3g48750
+---
+*KEGG PATHWAYS:
+---
+*GO PROCESSES:
+GO:0007049: cell cycle
+GO:0051301: cell division
+GO:0008356: asymmetric cell division
+GO:0000911: cytokinesis by cell plate formation
+GO:0042023: DNA endoreduplication
+GO:0009793: embryo development ending in seed dormancy
+GO:0048229: gametophyte development
+GO:0010235: guard mother cell cytokinesis
+GO:0010444: guard mother cell differentiation
+GO:0033206: meiotic cytokinesis
+GO:0016310: phosphorylation
+GO:0009555: pollen development
+GO:0008284: positive regulation of cell population proliferation
+GO:1902806: regulation of cell cycle G1/S phase transition
+GO:0040020: regulation of meiotic nuclear division
+GO:0009409: response to cold
+GO:0098725: symmetric cell division
+GO:0006351: DNA-templated transcription
+------------------------------------------------
+**NETWORK 13
+---
+*GENES:
+At3g48360
+At1g26830
+At4g09570
+At4g37610
+---
+*KEGG PATHWAYS:
+ath04120: Ubiquitin mediated proteolysis
+ath04626: Plant-pathogen interaction
+---
+*GO PROCESSES:
+GO:0009738: abscisic acid-activated signaling pathway
+GO:0009734: auxin-activated signaling pathway
+GO:0007623: circadian rhythm
+GO:0009553: embryo sac development
+GO:0009555: pollen development
+GO:0051973: positive regulation of telomerase activity
+GO:0016567: protein ubiquitination
+GO:0006355: regulation of DNA-templated transcription
+GO:0009737: response to abscisic acid
+GO:0009733: response to auxin
+GO:0009743: response to carbohydrate
+GO:0009409: response to cold
+GO:0042542: response to hydrogen peroxide
+GO:0009753: response to jasmonic acid
+GO:0010167: response to nitrate
+GO:0009751: response to salicylic acid
+GO:0009651: response to salt stress
+GO:0009611: response to wounding
+GO:0010182: sugar mediated signaling pathway
+GO:0042221: response to chemical
+GO:0006950: response to stress
+GO:0009911: positive regulation of flower development
+GO:0009639: response to red or far red light
+GO:0006511: ubiquitin-dependent protein catabolic process
+GO:0006355: regulation of DNA-templated transcription
+GO:0016310: phosphorylation
+GO:0009789: positive regulation of abscisic acid-activated signaling pathway
+GO:0016567: protein ubiquitination
+GO:0006355: regulation of DNA-templated transcription
+GO:0009733: response to auxin
+GO:0009409: response to cold
+GO:0042542: response to hydrogen peroxide
+GO:0009751: response to salicylic acid
+GO:0006351: DNA-templated transcription
+------------------------------------------------
+**NETWORK 14
+---
+*GENES:
+At1g09530
+At2g43010
+At2g18790
+At1g09570
+---
+*KEGG PATHWAYS:
+ath04075: Plant hormone signal transduction
+ath04712: Circadian rhythm - plant
+ath04075: Plant hormone signal transduction
+ath04712: Circadian rhythm - plant
+ath04712: Circadian rhythm - plant
+---
+*GO PROCESSES:
+GO:0009704: de-etiolation
+GO:0009740: gibberellic acid mediated signaling pathway
+GO:0031539: positive regulation of anthocyanin metabolic process
+GO:0010017: red or far-red light signaling pathway
+GO:0009585: red, far-red light phototransduction
+GO:0006355: regulation of DNA-templated transcription
+GO:0042548: regulation of photosynthesis, light reaction
+GO:1905421: regulation of plant organ morphogenesis
+GO:0009737: response to abscisic acid
+GO:0009733: response to auxin
+GO:0009409: response to cold
+GO:0009723: response to ethylene
+GO:0009408: response to heat
+GO:0009639: response to red or far red light
+GO:1902074: response to salt
+GO:1990785: response to water-immersion restraint stress
+GO:0009826: unidimensional cell growth
+GO:0006412: translation
+GO:0009704: de-etiolation
+GO:0009638: phototropism
+GO:0140922: positive regulation of thermomorphogenesis
+GO:0010161: red light signaling pathway
+GO:0010017: red or far-red light signaling pathway
+GO:0009585: red, far-red light phototransduction
+GO:0010600: regulation of auxin biosynthetic process
+GO:0010928: regulation of auxin mediated signaling pathway
+GO:1905421: regulation of plant organ morphogenesis
+GO:0006357: regulation of transcription by RNA polymerase II
+GO:0009733: response to auxin
+GO:0009409: response to cold
+GO:0009723: response to ethylene
+GO:0009408: response to heat
+GO:0010244: response to low fluence blue light stimulus by blue low-fluence system
+GO:1902074: response to salt
+GO:0009266: response to temperature stimulus
+GO:0009687: abscisic acid metabolic process
+GO:0006325: chromatin organization
+GO:0010617: circadian regulation of calcium ion oscillation
+GO:0009584: detection of visible light
+GO:0009649: entrainment of circadian clock
+GO:0009630: gravitropism
+GO:0009867: jasmonic acid mediated signaling pathway
+GO:0045892: negative regulation of DNA-templated transcription
+GO:0009640: photomorphogenesis
+GO:0015979: photosynthesis
+GO:0009638: phototropism
+GO:0017012: protein-phytochromobilin linkage
+GO:0010161: red light signaling pathway
+GO:0031347: regulation of defense response
+GO:2000028: regulation of photoperiodism, flowering
+GO:0010029: regulation of seed germination
+GO:0009409: response to cold
+GO:0010218: response to far red light
+GO:0010244: response to low fluence blue light stimulus by blue low-fluence system
+GO:0010202: response to low fluence red light stimulus
+GO:0009266: response to temperature stimulus
+GO:0010374: stomatal complex development
+GO:0010148: transpiration
+GO:0009585: red, far-red light phototransduction
+GO:0006355: regulation of DNA-templated transcription
+GO:0060320: rejection of self pollen
+GO:0009584: detection of visible light
+GO:0009630: gravitropism
+GO:0017148: negative regulation of translation
+GO:0009640: photomorphogenesis
+GO:0009638: phototropism
+GO:0010161: red light signaling pathway
+GO:0006355: regulation of DNA-templated transcription
+GO:0046685: response to arsenic-containing substance
+GO:0009409: response to cold
+GO:0010201: response to continuous far red light stimulus by the high-irradiance response system
+GO:0010218: response to far red light
+GO:0010203: response to very low fluence red light stimulus
+GO:0009585: red, far-red light phototransduction
+------------------------------------------------
+**NETWORK 15
+---
+*GENES:
+At4g16360
+At2g18700
+At1g09020
+At3g01090
+---
+*KEGG PATHWAYS:
+ath00500: Starch and sucrose metabolism
+ath01100: Metabolic pathways
+ath01110: Biosynthesis of secondary metabolites
+---
+*GO PROCESSES:
+GO:0005975: carbohydrate metabolic process
+GO:0006633: fatty acid biosynthetic process
+GO:0042128: nitrate assimilation
+GO:0010960: magnesium ion homeostasis
+GO:0005992: trehalose biosynthetic process
+GO:0016310: phosphorylation
+GO:0005975: carbohydrate metabolic process
+GO:0042149: cellular response to glucose starvation
+GO:0000266: mitochondrial fission
+GO:0016559: peroxisome fission
+GO:0009859: pollen hydration
+GO:0046777: protein autophosphorylation
+GO:0045859: regulation of protein kinase activity
+GO:2000377: regulation of reactive oxygen species metabolic process
+GO:0006886: intracellular protein transport
+GO:0016192: vesicle-mediated transport
+GO:0009738: abscisic acid-activated signaling pathway
+GO:0009594: detection of nutrient
+GO:0003006: developmental process involved in reproduction
+GO:0006633: fatty acid biosynthetic process
+GO:0010150: leaf senescence
+GO:0042128: nitrate assimilation
+GO:0016310: phosphorylation
+GO:0099402: plant organ development
+GO:0009789: positive regulation of abscisic acid-activated signaling pathway
+GO:0010508: positive regulation of autophagy
+GO:0080022: primary root development
+GO:1900055: regulation of leaf senescence
+GO:0009749: response to glucose
+GO:0009635: response to herbicide
+GO:0001666: response to hypoxia
+GO:0006979: response to oxidative stress
+GO:1902074: response to salt
+GO:0005982: starch metabolic process
+GO:0010182: sugar mediated signaling pathway
+GO:0010050: vegetative phase change
+GO:0010228: vegetative to reproductive phase transition of meristem
+GO:0006470: protein dephosphorylation
+------------------------------------------------
+**NETWORK 16
+---
+*GENES:
+At5g64330
+At3g45780
+At4g26090
+---
+*KEGG PATHWAYS:
+ath04626: Plant-pathogen interaction
+---
+*GO PROCESSES:
+GO:0009785: blue light signaling pathway
+GO:0009638: phototropism
+GO:0016567: protein ubiquitination
+GO:0097428: protein maturation by iron-sulfur cluster transfer
+GO:0009904: chloroplast accumulation movement
+GO:0009903: chloroplast avoidance movement
+GO:0007623: circadian rhythm
+GO:0010362: negative regulation of anion channel activity by blue light
+GO:0009638: phototropism
+GO:0046777: protein autophosphorylation
+GO:0010155: regulation of proton transport
+GO:0010119: regulation of stomatal movement
+GO:0009637: response to blue light
+GO:0016310: phosphorylation
+GO:0006952: defense response
+GO:0042742: defense response to bacterium
+GO:0016045: detection of bacterium
+GO:0009626: plant-type hypersensitive response
+------------------------------------------------
+**NETWORK 17
+---
+*GENES:
+At2g33830
+At3g03530
+---
+*KEGG PATHWAYS:
+ath00562: Inositol phosphate metabolism
+ath00564: Glycerophospholipid metabolism
+ath00565: Ether lipid metabolism
+ath01100: Metabolic pathways
+ath01110: Biosynthesis of secondary metabolites
+---
+*GO PROCESSES:
+GO:0009617: response to bacterium
+GO:0016310: phosphorylation
+GO:0009395: phospholipid catabolic process
+GO:0006006: glucose metabolic process
+------------------------------------------------
+**NETWORK 18
+---
+*GENES:
+At3g61260
+At3g17210
+At3g55440
+At3g48040
+---
+*KEGG PATHWAYS:
+ath00010: Glycolysis / Gluconeogenesis
+ath00051: Fructose and mannose metabolism
+ath00562: Inositol phosphate metabolism
+ath00710: Carbon fixation in photosynthetic organisms
+ath01100: Metabolic pathways
+ath01110: Biosynthesis of secondary metabolites
+ath01200: Carbon metabolism
+ath01230: Biosynthesis of amino acids
+ath04145: Phagosome
+ath04148: Efferocytosis
+---
+*GO PROCESSES:
+GO:0051607: defense response to virus
+GO:0051665: membrane raft localization
+GO:0009751: response to salicylic acid
+GO:1901700: response to oxygen-containing compound
+GO:0042742: defense response to bacterium
+GO:0050832: defense response to fungus
+GO:0006094: gluconeogenesis
+GO:0006096: glycolytic process
+GO:0010043: response to zinc ion
+GO:0009738: abscisic acid-activated signaling pathway
+GO:0009788: negative regulation of abscisic acid-activated signaling pathway
+GO:0007264: small GTPase mediated signal transduction
+------------------------------------------------
+**NETWORK 19
+---
+*GENES:
+At4g03280
+At4g39710
+---
+*KEGG PATHWAYS:
+ath00195: Photosynthesis
+ath01100: Metabolic pathways
+---
+*GO PROCESSES:
+GO:0010196: nonphotochemical quenching
+GO:0009767: photosynthetic electron transport chain
+GO:0016310: phosphorylation
+------------------------------------------------
+**NETWORK 20
+---
+*GENES:
+At3g56850
+At3g62550
+---
+*KEGG PATHWAYS:
+ath04075: Plant hormone signal transduction
+---
+*GO PROCESSES:
+GO:0009738: abscisic acid-activated signaling pathway
+GO:0045893: positive regulation of DNA-templated transcription
+GO:0006355: regulation of DNA-templated transcription
+GO:0009738: abscisic acid-activated signaling pathway
+GO:0009926: auxin polar transport
+GO:0009734: auxin-activated signaling pathway
+GO:0006952: defense response
+GO:0009873: ethylene-activated signaling pathway
+GO:0009789: positive regulation of abscisic acid-activated signaling pathway
+GO:0035304: regulation of protein dephosphorylation
+GO:0010119: regulation of stomatal movement
+GO:0009723: response to ethylene
+------------------------------------------------
